@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+# Generated chunk files
+chunks/
+output/
+
+# If chunks/output are inside Ingestion folder
+Ingestion/chunks/
+Ingestion/output/
