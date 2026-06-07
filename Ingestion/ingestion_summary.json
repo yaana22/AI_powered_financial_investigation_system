@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "pipeline_duration_s": 82.97,
+    "pdfs_found": 151,
+    "pdfs_succeeded": 151,
+    "pdfs_failed": 0,
+    "total_pages_processed": 10234,
+    "total_pages_skipped": 26,
+    "total_chunks": 41191,
+    "approx_tokens": 6257406,
+    "avg_pdf_time_s": 3.78,
+    "chunks_per_second": 496.4,
+    "workers_used": 8,
+    "chunk_size_config": 800,
+    "chunk_overlap_config": 150
+  },
+  "failures": []
+}

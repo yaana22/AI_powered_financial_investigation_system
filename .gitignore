@@ -15,4 +15,11 @@ output/
 # If chunks/output are inside Ingestion folder
 Ingestion/chunks/
 Ingestion/output/
+Ingestion/Documents
+
 .env
+
+logs
+chunks_jsonl
+SEBI
+.pytest_cache
